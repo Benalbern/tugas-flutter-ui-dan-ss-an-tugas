@@ -20,7 +20,11 @@
 
 <img width="1926" height="1014" alt="9" src="https://github.com/user-attachments/assets/f92042cc-94ad-4a2d-95d8-98bbb765d2a3" />
 
+## Latihan 1 js GCR
+
 https://github.com/Benalbern/js/blob/main/bub.js
+
+
 
 
 
